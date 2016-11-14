@@ -1,0 +1,2 @@
+# mySvn
+repositoryMy
